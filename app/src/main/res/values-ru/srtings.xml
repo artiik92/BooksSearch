@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Книжный поисковик</string>
+    <string name="title_activity_book_info">Информация о книге</string>
+    <string name="action_settings">Настройки</string>
+    <string name="unknown">Неизвесно</string>
+    <string name="author"><b>Авторы: </b></string>
+    <string name="publisher"><b>Издатель: </b></string>
+    <string name="published_date"><b>Изданно в: </b></string>
+    <string name="description">Описание</string>
+    <string name="book_title">Название книги</string>
+    <string name="subtitle">Подзаголовик</string>
+    <string name="SearchViewText">Название книги, автор </string>
+    <string name="about_the_book">О книге</string>
+
+</resources>
